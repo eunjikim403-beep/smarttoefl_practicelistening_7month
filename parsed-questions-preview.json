@@ -1,0 +1,1242 @@
+[
+  {
+    "number": 1,
+    "text": "",
+    "choices": [
+      "Yes, she answered all my questions after class.",
+      "The professor teaches on Monday mornings.",
+      "I\u2019m planning to talk to her next week.",
+      "No, but I read the course syllabus."
+    ]
+  },
+  {
+    "number": 2,
+    "text": "",
+    "choices": [
+      "The o\ufb03ce has been repainted.",
+      "It usually opens at eight o\u2019clock.",
+      "Most of the team was working from home.",
+      "Yes, I noticed that yesterday."
+    ]
+  },
+  {
+    "number": 3,
+    "text": "",
+    "choices": [
+      "Dr. Lopez, the researcher from Argentina.",
+      "The session will last about an hour.",
+      "Yes, I\u2019ve seen her present before.",
+      "There are three seats near the front."
+    ]
+  },
+  {
+    "number": 4,
+    "text": "",
+    "choices": [
+      "The theater tickets were quite expensive.",
+      "The show starts in \ufb01fteen minutes.",
+      "I parked there once last year.",
+      "Barely, but I got a spot two blocks away."
+    ]
+  },
+  {
+    "number": 5,
+    "text": "",
+    "choices": [
+      "I\u2019ll make another appointment next month.",
+      "The doctor\u2019s o\ufb03ce closes at six o\u2019clock.",
+      "It should heal completely if I rest for a week.",
+      "Yes, I had an X-ray yesterday."
+    ]
+  },
+  {
+    "number": 6,
+    "text": "",
+    "choices": [
+      "The weather there is usually nice.",
+      "The airport is about thirty minutes away.",
+      "Yes, I love to travel every summer.",
+      "We\u2019re visiting my cousins in Spain for two weeks."
+    ]
+  },
+  {
+    "number": 7,
+    "text": "",
+    "choices": [
+      "I lost a jacket once in the same place.",
+      "Right after paying for co\ufb00ee at the station.",
+      "The wallet is black and leather.",
+      "I\u2019ll check the caf\u00e9 again later."
+    ]
+  },
+  {
+    "number": 8,
+    "text": "",
+    "choices": [
+      "The elevator doors are silver and glass.",
+      "Finally, yes\u2014it\u2019s working perfectly now.",
+      "It\u2019s on the left side of the hallway.",
+      "I live on the fourth \ufb02oor."
+    ]
+  },
+  {
+    "number": 9,
+    "text": "",
+    "choices": [
+      "It\u2019s been postponed.",
+      "In the main auditorium.",
+      "Yes, tickets are required.",
+      "Professor Adams from the physics department."
+    ]
+  },
+  {
+    "number": 10,
+    "text": "",
+    "choices": [
+      "They\u2019re due next Thursday.",
+      "The drop box is right by the entrance.",
+      "I \ufb01nished reading two of them.",
+      "I need to borrow more before the weekend."
+    ]
+  },
+  {
+    "number": 11,
+    "text": "",
+    "choices": [
+      "I hope it went well.",
+      "The appointment was short.",
+      "My dentist just started this week.",
+      "I had one last month."
+    ]
+  },
+  {
+    "number": 12,
+    "text": "",
+    "choices": [
+      "No, it was delayed by an hour.",
+      "The next one\u2019s already full.",
+      "Yes, I\u2019ll text you when I \ufb01nd the car.",
+      "The station is downtown."
+    ]
+  },
+  {
+    "number": 13,
+    "text": "",
+    "choices": [
+      "I already packed my suitcase.",
+      "Yes, they\u2019ll check them at the gate.",
+      "The airport is far from here.",
+      "No, I don\u2019t have mine."
+    ]
+  },
+  {
+    "number": 14,
+    "text": "",
+    "choices": [
+      "Yes, I met the manager the other day.",
+      "It was rescheduled for next week.",
+      "No, I haven\u2019t heard back from my old boss yet.",
+      "The o\ufb03ce was quiet until the interview began."
+    ]
+  },
+  {
+    "number": 15,
+    "text": "",
+    "choices": [
+      "His \ufb02ight was canceled yesterday.",
+      "Yes, I saw them yesterday outside my dorm.",
+      "No, they\u2019re still deciding where to go next.",
+      "They decided to come next month instead."
+    ]
+  },
+  {
+    "number": 16,
+    "text": "",
+    "choices": [
+      "I\u2019ll play a di\ufb00erent song next.",
+      "I didn\u2019t realize it was that loud.",
+      "The speaker\u2019s battery is low.",
+      "I already changed the playlist."
+    ]
+  },
+  {
+    "number": 17,
+    "text": "",
+    "choices": [
+      "The client meeting is every Thursday.",
+      "I already sent the updated slides.",
+      "They\u2019re visiting from the New York o\ufb03ce.",
+      "Marcus o\ufb00ered to take the lead this time."
+    ]
+  },
+  {
+    "number": 18,
+    "text": "",
+    "choices": [
+      "I waited outside last time.",
+      "The weather\u2019s nice today.",
+      "Not at all, I just got here myself.",
+      "The clock\u2019s a little fast."
+    ]
+  },
+  {
+    "number": 19,
+    "text": "",
+    "choices": [
+      "Yes, but the application is quite long.",
+      "No, I read about the internship online.",
+      "Yes, I sent it to Career Services yesterday.",
+      "No, my friend works there."
+    ]
+  },
+  {
+    "number": 20,
+    "text": "",
+    "choices": [
+      "Ms. Grant from the marketing department.",
+      "It starts at nine sharp.",
+      "The meeting room is small.",
+      "I led the last one."
+    ]
+  },
+  {
+    "number": 21,
+    "text": "",
+    "choices": [
+      "Yes, the orientation was yesterday.",
+      "No, but I\u2019ve heard she\u2019s from Brazil.",
+      "She lives in the dorms.",
+      "I saw an exchange program online."
+    ]
+  },
+  {
+    "number": 22,
+    "text": "",
+    "choices": [
+      "Yes, but they forgot one of my shirts.",
+      "No, I went to be early.",
+      "Yes, the restaurant is next to the bank.",
+      "But my clothes are still wet."
+    ]
+  },
+  {
+    "number": 23,
+    "text": "",
+    "choices": [
+      "It was at my apartment.",
+      "The party ended early.",
+      "I sent you an invitation.",
+      "That\u2019s okay, maybe next time."
+    ]
+  },
+  {
+    "number": 24,
+    "text": "",
+    "choices": [
+      "The house next door is blue.",
+      "They moved in last month.",
+      "I saw them outside last week.",
+      "Let\u2019s keep the volume low for now."
+    ]
+  },
+  {
+    "number": 25,
+    "text": "",
+    "choices": [
+      "No, it\u2019s across from the gym.",
+      "No, the exams start next Monday.",
+      "I studied there yesterday.",
+      "Yes, until midnight for the next two weeks."
+    ]
+  },
+  {
+    "number": 26,
+    "text": "",
+    "choices": [
+      "I did, but it broke in the wind.",
+      "Yes, I usually carry one.",
+      "The weather looks better now.",
+      "I forgot mine at work."
+    ]
+  },
+  {
+    "number": 27,
+    "text": "",
+    "choices": [
+      "I bought that brand before.",
+      "It\u2019s next to the cereal box.",
+      "The label\u2019s written in Spanish.",
+      "Here, let me give it a try."
+    ]
+  },
+  {
+    "number": 28,
+    "text": "",
+    "choices": [
+      "The battery icon just changed colors.",
+      "You can borrow my charger if you need it.",
+      "I prefer using desktop computers.",
+      "The store sells electronics too."
+    ]
+  },
+  {
+    "number": 29,
+    "text": "",
+    "choices": [
+      "I\u2019ll drop them o\ufb00 on my way home.",
+      "The letters are on the desk.",
+      "I checked the mailbox earlier.",
+      "The post o\ufb03ce closes soon."
+    ]
+  },
+  {
+    "number": 30,
+    "text": "",
+    "choices": [
+      "Glad I could help.",
+      "The advice worked well.",
+      "I\u2019ll send you a message.",
+      "I read the article you sent."
+    ]
+  },
+  {
+    "number": 31,
+    "text": "Why does the man mention double-checking their \ufb02ight times",
+    "choices": [
+      "He plans to change the time of departure so they can arrive earlier.",
+      "He forgot to con\ufb01rm the \ufb02ight details earlier.",
+      "He wants to ensure they can pick up the car on time.",
+      "He thinks the rental location might close early."
+    ]
+  },
+  {
+    "number": 32,
+    "text": "What does the man suggest the woman do",
+    "choices": [
+      "Take care of booking the rental car",
+      "Wait until they arrive to rent a car",
+      "Call the airline to verify their schedule",
+      "Pay for the hotel instead of the vehicle"
+    ]
+  },
+  {
+    "number": 33,
+    "text": "Why can\u2019t the man reschedule his doctor\u2019s appointment for later in the day",
+    "choices": [
+      "The appointment is for a required medical test.",
+      "The doctor\u2019s o\ufb03ce closes early on weekdays.",
+      "He already con\ufb01rmed another meeting then.",
+      "The only available time is next week."
+    ]
+  },
+  {
+    "number": 34,
+    "text": "What will the man probably do next",
+    "choices": [
+      "Attend the meeting instead of the appointment",
+      "Cancel his doctor\u2019s appointment for tomorrow",
+      "Send an email to his supervisor about the con\ufb02ict",
+      "Ask a coworker to take notes during the meeting"
+    ]
+  },
+  {
+    "number": 35,
+    "text": "What task does the man agree to complete",
+    "choices": [
+      "Print the agenda for everyone",
+      "Inform the client about the change",
+      "Resend the meeting invitation with updated details",
+      "Reserve another room in the building"
+    ]
+  },
+  {
+    "number": 36,
+    "text": "What can be inferred about the company\u2019s meeting rooms",
+    "choices": [
+      "Scheduling con\ufb02icts happen frequently.",
+      "They are rarely used for client meetings.",
+      "They are being renovated.",
+      "They are only available for online calls."
+    ]
+  },
+  {
+    "number": 37,
+    "text": "Where did the woman lose her ID",
+    "choices": [
+      "In the library",
+      "On a \ufb01eld trip",
+      "During her next class",
+      "In the student center"
+    ]
+  },
+  {
+    "number": 38,
+    "text": "What does the man say about getting a new ID",
+    "choices": [
+      "She will have to wait a few days for a replacement.",
+      "She can borrow a temporary pass from the library.",
+      "Students must \ufb01ll out an online form \ufb01rst.",
+      "It can be printed at the student center."
+    ]
+  },
+  {
+    "number": 39,
+    "text": "Where does the man eventually \ufb01nd his keys",
+    "choices": [
+      "In the living room",
+      "On the kitchen table",
+      "Inside a drawer",
+      "In his jacket pocket"
+    ]
+  },
+  {
+    "number": 40,
+    "text": "What can be inferred about the man",
+    "choices": [
+      "He often misplaces his belongings.",
+      "He recently bought a new car.",
+      "He was in a hurry to leave.",
+      "He does not trust the woman\u2019s advice."
+    ]
+  },
+  {
+    "number": 41,
+    "text": "Why does the woman plan to book the tickets soon",
+    "choices": [
+      "She wants to get better seats.",
+      "Ticket prices are expected to increase.",
+      "The trip is still uncon\ufb01rmed.",
+      "She needs to cancel another reservation."
+    ]
+  },
+  {
+    "number": 42,
+    "text": "What does the man ask the woman",
+    "choices": [
+      "To wait to buy tickets in person",
+      "If there are any earlier trains",
+      "How much he owes for the tickets",
+      "To look for hotel options near the station"
+    ]
+  },
+  {
+    "number": 43,
+    "text": "Where does the woman think the umbrella was left",
+    "choices": [
+      "In the o\ufb03ce where he works",
+      "Inside the man\u2019s car after the meal",
+      "At the restaurant where they ate dinner",
+      "At the front desk of his apartment building"
+    ]
+  },
+  {
+    "number": 44,
+    "text": "Why does the woman suggest calling the restaurant",
+    "choices": [
+      "They may be holding the umbrella for the man.",
+      "She wants to con\ufb01rm whether they are still open.",
+      "She believes the sta\ufb00 saw him leave it on a chair.",
+      "She knows the man often eats at the same restaurant."
+    ]
+  },
+  {
+    "number": 45,
+    "text": "Why does the man o\ufb00er to pick up the cake",
+    "choices": [
+      "He needs to con\ufb01rm that the bakery is still open.",
+      "He wants to make sure the cake looks perfect.",
+      "He ordered the same cake for another event.",
+      "He will already be driving near the bakery."
+    ]
+  },
+  {
+    "number": 46,
+    "text": "What does the woman advise the man to do",
+    "choices": [
+      "Check that the bakery spells the name correctly",
+      "Buy candles for the top of the cake",
+      "Ask for a discount if the cake is late",
+      "Pick up extra cupcakes in case guests want more"
+    ]
+  },
+  {
+    "number": 47,
+    "text": "Where does the man plan to ride his bike",
+    "choices": [
+      "Across a downtown bridge route",
+      "Around the city park",
+      "Through a nearby mountain path",
+      "Along the riverside trail"
+    ]
+  },
+  {
+    "number": 48,
+    "text": "Why does the woman mention sunscreen and water",
+    "choices": [
+      "Because the weather forecast predicts light rain that day",
+      "Because the rental shop requires riders to bring them",
+      "Because the trail has limited shade along certain areas",
+      "Because the man plans to ride early in the morning"
+    ]
+  },
+  {
+    "number": 49,
+    "text": "What has the man already done to address the noise issue",
+    "choices": [
+      "Left polite notes for his neighbors about the loud music",
+      "Spoken directly to the building manager twice",
+      "Moved to a di\ufb00erent apartment in the building",
+      "Filed an o\ufb03cial complaint with local authorities"
+    ]
+  },
+  {
+    "number": 50,
+    "text": "What does the woman advise the man to do",
+    "choices": [
+      "Talk to the building manager before the weekend",
+      "Confront the neighbors directly about the problem",
+      "Wait until next week to see if it happens again",
+      "Consider moving to another location"
+    ]
+  },
+  {
+    "number": 51,
+    "text": "What does the woman say about the yoga instructor",
+    "choices": [
+      "The instructor is good at teaching beginners.",
+      "The instructor teaches only advanced-level classes.",
+      "The instructor gives private lessons near the park.",
+      "The instructor just started working at the studio."
+    ]
+  },
+  {
+    "number": 52,
+    "text": "What will the man probably do next",
+    "choices": [
+      "Invite his friend to join the class too",
+      "Look online for reviews of the studio before he goes",
+      "Buy new workout clothes for the class",
+      "Attend the free yoga class on Saturday"
+    ]
+  },
+  {
+    "number": 53,
+    "text": "What does the man say about the sushi restaurant",
+    "choices": [
+      "The portions are small, and it gets crowded.",
+      "The menu is limited but reasonably priced.",
+      "The food is fresh and the service is quick.",
+      "The atmosphere is nice, but a reservation is required."
+    ]
+  },
+  {
+    "number": 54,
+    "text": "What will the woman probably do this afternoon",
+    "choices": [
+      "Call the restaurant to reserve a table.",
+      "Look for online reviews about the sushi",
+      "Ask friends to join her for dinner",
+      "Visit the restaurant in person to check prices"
+    ]
+  },
+  {
+    "number": 55,
+    "text": "What can be inferred about the occasion",
+    "choices": [
+      "They are meeting coworkers for a business dinner.",
+      "They are celebrating a birthday.",
+      "They are hosting an engagement dinner for friends.",
+      "They are dining out to celebrate their anniversary."
+    ]
+  },
+  {
+    "number": 56,
+    "text": "Why does the man mention dessert being included",
+    "choices": [
+      "The restaurant is o\ufb00ering it as a free service.",
+      "He wants to remind the woman to order dessert.",
+      "He plans to pay for dessert separately.",
+      "He is suggesting they skip the birthday cake."
+    ]
+  },
+  {
+    "number": 57,
+    "text": "Why does the man mention dessert",
+    "choices": [
+      "To show he is open to adjusting their plans",
+      "To suggest they go to a di\ufb00erent restaurant instead",
+      "To remind the woman about her favorite dessert shop",
+      "To convince the woman to eat earlier in the evening"
+    ]
+  },
+  {
+    "number": 58,
+    "text": "What does the woman suggest about the restaurant",
+    "choices": [
+      "The curry might not be as good as people say.",
+      "The restaurant is probably too crowded at dinner time.",
+      "They should make a reservation before going.",
+      "The quality of service may vary depending on the sta\ufb00."
+    ]
+  },
+  {
+    "number": 59,
+    "text": "Why does the woman suggest emailing the advisor now",
+    "choices": [
+      "To avoid any future problems with his advisor",
+      "To request a later appointment time",
+      "To ask for an extension on the class assignment",
+      "To con\ufb01rm the economics classroom location"
+    ]
+  },
+  {
+    "number": 60,
+    "text": "What does the man still need from his advisor",
+    "choices": [
+      "A signature for a scholarship form",
+      "An economics textbook",
+      "Approval to change his major",
+      "An email to his professor"
+    ]
+  },
+  {
+    "number": 61,
+    "text": "What is the main purpose of the announcement",
+    "choices": [
+      "To introduce a new online reservation system",
+      "To promote library services",
+      "To remind students to return library books",
+      "To inform students about new library hours"
+    ]
+  },
+  {
+    "number": 62,
+    "text": "According to the announcement, when will the new hours begin",
+    "choices": [
+      "Next Monday",
+      "This weekend",
+      "Midnight on weekdays",
+      "After \ufb01nal exams"
+    ]
+  },
+  {
+    "number": 63,
+    "text": "What can visitors do at the event",
+    "choices": [
+      "Purchase artwork from the student gallery",
+      "Enroll in upcoming studio courses",
+      "Bring light refreshments",
+      "Meet student artists"
+    ]
+  },
+  {
+    "number": 64,
+    "text": "What is said about the event\u2019s location",
+    "choices": [
+      "It will be hosted online.",
+      "It will be held outdoors near the library.",
+      "It will take place in the Fine Arts Building.",
+      "It will occur in the open studio."
+    ]
+  },
+  {
+    "number": 65,
+    "text": "What will the o\ufb03cers demonstrate during the session",
+    "choices": [
+      "Emergency response training and safety precautions",
+      "Self-defense techniques and safety strategies",
+      "How to contact the security hotline and \ufb01nd safe spaces on campus",
+      "The process for reporting items lost or stolen"
+    ]
+  },
+  {
+    "number": 66,
+    "text": "What does the speaker say participants will receive",
+    "choices": [
+      "A personal safety guide",
+      "Free safety gear",
+      "Extra credit in health and wellness courses",
+      "Access to a private training session"
+    ]
+  },
+  {
+    "number": 67,
+    "text": "What is the main purpose of the announcement",
+    "choices": [
+      "To announce new requirements for grant applications",
+      "To inform students about a \ufb01nancial aid information session",
+      "To advertise a workshop on budget management",
+      "To remind students to check their \ufb01nancial aid status"
+    ]
+  },
+  {
+    "number": 68,
+    "text": "Why does the speaker mention Friday at 10 a.m.",
+    "choices": [
+      "To specify the time and date of the information session",
+      "To clarify the deadline for submitting \ufb01nancial forms",
+      "To announce when \ufb01nancial aid o\ufb03ces will close",
+      "To remind students about weekly o\ufb03ce hours"
+    ]
+  },
+  {
+    "number": 69,
+    "text": "What are students encouraged to bring",
+    "choices": [
+      "A ticket purchased in advance",
+      "Their university ID for free admission",
+      "A printed schedule of the \ufb01lm lineup",
+      "A short \ufb01lm created by media studies students"
+    ]
+  },
+  {
+    "number": 70,
+    "text": "Why does the speaker mention the Q&A session",
+    "choices": [
+      "To explain how the \ufb01lms were selected",
+      "To highlight that students can interact with the directors",
+      "To promote volunteer opportunities at the theater",
+      "To remind attendees to arrive early for seating"
+    ]
+  },
+  {
+    "number": 71,
+    "text": "What is the main purpose of the announcement",
+    "choices": [
+      "To announce a change in how to format resumes",
+      "To advertise internship openings",
+      "To introduce a new career counselor",
+      "To share information about a writing workshop"
+    ]
+  },
+  {
+    "number": 72,
+    "text": "What should students bring to the event",
+    "choices": [
+      "A printed copy of their resume",
+      "A laptop for writing practice",
+      "Proof of registration",
+      "A list of internship preferences"
+    ]
+  },
+  {
+    "number": 73,
+    "text": "When must members submit their work",
+    "choices": [
+      "On Wednesday afternoon before the reception",
+      "By Tuesday at noon before the exhibition",
+      "At the gallery on Friday morning",
+      "During the opening event in the evening"
+    ]
+  },
+  {
+    "number": 74,
+    "text": "Why does the speaker mention that frames and labels will be provided",
+    "choices": [
+      "To explain that entries must follow strict size requirements to exhibit work",
+      "To let members know they don\u2019t need to bring their own materials",
+      "To thank the art department for donating supplies provided on the site",
+      "To remind students to label their photos carefully before submitting"
+    ]
+  },
+  {
+    "number": 75,
+    "text": "What is the main purpose of the announcement",
+    "choices": [
+      "To announce a change in meeting location for the club mixer",
+      "To invite people to an upcoming mixer",
+      "To report on last semester\u2019s events in the International Lounge",
+      "To advertise a new language course for international students"
+    ]
+  },
+  {
+    "number": 76,
+    "text": "What are students encouraged to do",
+    "choices": [
+      "Register early through the club website",
+      "Prepare a short presentation about their country",
+      "Bring a friend who might want to join the club",
+      "Bring their own snacks to share with others"
+    ]
+  },
+  {
+    "number": 77,
+    "text": "What are participants encouraged to bring",
+    "choices": [
+      "Gardening tools from home",
+      "Clothes suitable for getting dirty",
+      "Bottles of water and snacks",
+      "Extra pairs of gloves"
+    ]
+  },
+  {
+    "number": 78,
+    "text": "What will volunteers be doing during the event",
+    "choices": [
+      "Painting the exterior of the greenhouse",
+      "Building new tables for the garden",
+      "Planting herbs and cleaning the greenhouse",
+      "Cleaning up the local botanical garden"
+    ]
+  },
+  {
+    "number": 79,
+    "text": "What is the main purpose of the announcement",
+    "choices": [
+      "To remind residents about upcoming room checks for cleanliness",
+      "To inform residents about a scheduled maintenance inspection",
+      "To announce that heating systems will be replaced this week",
+      "To warn residents about possible power outages"
+    ]
+  },
+  {
+    "number": 80,
+    "text": "What are residents asked to do",
+    "choices": [
+      "Report maintenance issues to the front desk",
+      "Turn o\ufb00 their heating systems in advance",
+      "Keep their rooms accessible during the inspection",
+      "Vacate their rooms for the morning"
+    ]
+  },
+  {
+    "number": 81,
+    "text": "What is the main purpose of the announcement",
+    "choices": [
+      "To announce new courses o\ufb00ered by the Philosophy Department",
+      "To summarize a recent study on arti\ufb01cial intelligence",
+      "To invite students to attend a guest lecture",
+      "To remind students about a midterm in ethics"
+    ]
+  },
+  {
+    "number": 82,
+    "text": "What are students encouraged to do",
+    "choices": [
+      "Sign up online to reserve their seats",
+      "Submit questions to the department beforehand",
+      "Arrive early since seating is limited",
+      "Read assigned articles before attending"
+    ]
+  },
+  {
+    "number": 83,
+    "text": "What is the main purpose of the announcement",
+    "choices": [
+      "To describe recent improvements to campus recycling bins",
+      "To announce a new environmental studies course",
+      "To recruit study groups to volunteer to share their projects",
+      "To remind students about the upcoming fair"
+    ]
+  },
+  {
+    "number": 84,
+    "text": "What kind of groups will be featured at the fair",
+    "choices": [
+      "Art clubs displaying sustainable sculptures",
+      "Local businesses promoting clean energy",
+      "Student organizations focused on environmental topics",
+      "Campus departments o\ufb00ering internship programs"
+    ]
+  },
+  {
+    "number": 85,
+    "text": "According to the talk, how did the Green Revolution a\ufb00ect global trade",
+    "choices": [
+      "It enabled some nations to shift from importing to exporting food crops.",
+      "It reduced the overall amount of grain available for international markets.",
+      "It created trade con\ufb02icts between developing and industrialized countries over fertilizer use.",
+      "It encouraged governments to ban the export of genetically modi\ufb01ed seeds."
+    ]
+  },
+  {
+    "number": 86,
+    "text": "Why does the speaker mention India and Mexico",
+    "choices": [
+      "To highlight places where fertilizers and pesticides most impacted the population\u2019s health",
+      "To compare regions that depended on imports for survival",
+      "To illustrate countries where innovation increased food production",
+      "To show where farming diversity has been replaced with innovative technology"
+    ]
+  },
+  {
+    "number": 87,
+    "text": "According to the talk, what was one major drawback of the Green Revolution",
+    "choices": [
+      "It failed to improve overall grain yields in developing regions.",
+      "It widened economic gaps between large commercial farms and smaller producers.",
+      "It encouraged countries to abandon traditional irrigation and crop systems.",
+      "It caused environmental damage through heavy use of fertilizers and pesticides."
+    ]
+  },
+  {
+    "number": 88,
+    "text": "What does the speaker imply about the long-term results of the Green Revolution",
+    "choices": [
+      "It solved food shortages but created new environmental challenges.",
+      "It ended economic inequality among farmers in poorer nations.",
+      "It prevented the use of modern irrigation systems that are better for the environment.",
+      "It had no signi\ufb01cant e\ufb00ect on global trade until the latter half of the 20th century."
+    ]
+  },
+  {
+    "number": 89,
+    "text": "What is the main topic of the talk",
+    "choices": [
+      "The role of attention and focus in modern productivity methods",
+      "A psychological phenomenon related to un\ufb01nished tasks",
+      "How memory retention varies between short-term and long-term recall",
+      "Early twentieth-century experiments that shaped the \ufb01eld of cognitive science"
+    ]
+  },
+  {
+    "number": 90,
+    "text": "According to the speaker, what did Zeigarnik observe about waiters in a cafe",
+    "choices": [
+      "They performed better when they tracked multiple tables simultaneously.",
+      "They remembered unpaid orders better than completed ones.",
+      "They relied on repetition rather than reasoning to recall customer requests.",
+      "They retained details longer when the caf\u00e9 was quiet and less crowded."
+    ]
+  },
+  {
+    "number": 91,
+    "text": "What can be inferred about un\ufb01nished tasks according to the speaker",
+    "choices": [
+      "They are more memorable because people consciously choose to revisit them.",
+      "They often strengthen unrelated cognitive skills.",
+      "They tend to occupy the mind until they are completed.",
+      "They typically cause the brain to block other incoming information."
+    ]
+  },
+  {
+    "number": 92,
+    "text": "What will the speaker most likely discuss next",
+    "choices": [
+      "Modern tools and techniques designed to help people stay focused",
+      "The origins of psychological research in early twentieth-century Europe",
+      "The relationship between memory and physical health in older adults",
+      "The use of experimental methods in unrelated areas of psychology"
+    ]
+  },
+  {
+    "number": 93,
+    "text": "What is the main topic of the talk",
+    "choices": [
+      "The e\ufb00ects of digital technology on modern societies",
+      "The invention of mechanical clocks in Europe and its impact on culture",
+      "How religion shaped early calendars and cultures",
+      "The evolution of time measurement and its cultural signi\ufb01cance"
+    ]
+  },
+  {
+    "number": 94,
+    "text": "What can be inferred about the social function of timekeeping systems",
+    "choices": [
+      "They have little in\ufb02uence on human behavior",
+      "They are developed mainly for religious control",
+      "They reveal the cultural values and priorities of a society",
+      "They remain unchanged despite technological progress"
+    ]
+  },
+  {
+    "number": 95,
+    "text": "Why does the speaker mention the ringing of bells in medieval towns",
+    "choices": [
+      "To compare medieval time structure to the modern digital age",
+      "To show how they organized people\u2019s daily lives",
+      "To describe an early form of communication between towns",
+      "To explain why clock towers became symbols of wealth"
+    ]
+  },
+  {
+    "number": 96,
+    "text": "According to the speaker, what change did mechanical clocks bring to society",
+    "choices": [
+      "They reduced the need for written records of time.",
+      "They replaced religious calendars and ceremonies.",
+      "They ended the use of natural rhythms for agricultural production.",
+      "They helped organize daily routines and emphasized punctuality."
+    ]
+  },
+  {
+    "number": 97,
+    "text": "What is the main topic of the talk",
+    "choices": [
+      "How animals survive cold temperatures through hibernation",
+      "How water can remain liquid below its normal freezing point",
+      "Why most liquids freeze at the same temperature",
+      "How understanding the way ice forms leads to scienti\ufb01c breakthroughs"
+    ]
+  },
+  {
+    "number": 98,
+    "text": "What does the speaker say about the wood frog",
+    "choices": [
+      "It survives winter by preventing ice from forming in vital organs.",
+      "It keeps its body temperature above freezing by generating heat.",
+      "It moves underground to escape extreme cold.",
+      "It breathes through its skin while frozen."
+    ]
+  },
+  {
+    "number": 99,
+    "text": "What can be inferred about scientists\u2019 interest in studying supercooling",
+    "choices": [
+      "They believe that supercooling has limited practical applications.",
+      "They are primarily focused on protecting animals from extreme cold.",
+      "They are trying to develop new methods to heat frozen environments.",
+      "They hope to apply natural freezing strategies to medical storage."
+    ]
+  },
+  {
+    "number": 100,
+    "text": "Why does the speaker describe the wood frog in detail",
+    "choices": [
+      "To show how certain species avoid water loss",
+      "To compare animal hibernation with freezing",
+      "To illustrate how supercooling functions in a living organism",
+      "To explain why frogs are found in colder climates"
+    ]
+  },
+  {
+    "number": 101,
+    "text": "What is the main topic of the talk",
+    "choices": [
+      "How weather patterns change in di\ufb00erent parts of the world due to evaporation",
+      "How evaporation functions and impacts society",
+      "How evaporation helped humans adapt to extreme heat",
+      "How scientists developed electric refrigeration systems based on evaporation"
+    ]
+  },
+  {
+    "number": 102,
+    "text": "What does the speaker say about desert plants",
+    "choices": [
+      "They rely on wind to distribute moisture through their leaves and roots.",
+      "They store large amounts of water to maintain growth during the day.",
+      "They release moisture only at night to conserve water and regulate temperature.",
+      "They open their pores during the day to collect sunlight more e\ufb03ciently."
+    ]
+  },
+  {
+    "number": 103,
+    "text": "What can be inferred about evaporation\u2019s importance in engineering",
+    "choices": [
+      "It has replaced electricity in most modern appliances because of its cooling properties.",
+      "It is primarily used to generate heat for large industrial machines.",
+      "It provides a natural model for designing e\ufb03cient cooling technologies.",
+      "It is useful in humid environments with high water content."
+    ]
+  },
+  {
+    "number": 104,
+    "text": "Why does the speaker compare sweating to evaporation in the atmosphere",
+    "choices": [
+      "To explain why weather changes can a\ufb00ect body temperature",
+      "To contrast the ways natural and human processes release energy",
+      "To argue that evaporation works di\ufb00erently in living organisms",
+      "To show that the same physical principle operates at both small and global scales"
+    ]
+  },
+  {
+    "number": 105,
+    "text": "According to the talk, what is the opportunity cost for a student who chooses to work part-time",
+    "choices": [
+      "The academic improvement they might have gained instead",
+      "The wages lost from not working extra shifts",
+      "The experience of balancing multiple commitments",
+      "The increased expenses that come with employment"
+    ]
+  },
+  {
+    "number": 106,
+    "text": "All of the following are mentioned as examples of opportunity cost EXCEPT:",
+    "choices": [
+      "Choosing to spend money on advertising instead of research",
+      "Deciding between studying or working part-time as a student",
+      "Investing public funds in space exploration instead of education",
+      "Allocating money on a new product line instead of marketing"
+    ]
+  },
+  {
+    "number": 107,
+    "text": "Why does the speaker mention the student deciding whether to work part-time",
+    "choices": [
+      "To argue that part-time jobs are just as valuable as unpaid internships",
+      "To show an example that emphasizes a focus on academic success",
+      "To demonstrate how education leads to \ufb01nancial independence",
+      "To provide a relatable example of opportunity cost in everyday life"
+    ]
+  },
+  {
+    "number": 108,
+    "text": "What will the speaker most likely discuss next",
+    "choices": [
+      "How scientists calculated the total expenses of building a spacecraft.",
+      "How private companies used opportunity cost to fund early rocket design.",
+      "How the U.S. government debated the costs of the space race.",
+      "How public opinion changed about technology and education in the 1970s."
+    ]
+  },
+  {
+    "number": 109,
+    "text": "What is the main focus of the talk",
+    "choices": [
+      "How skilled laborers designed the Great Pyramid",
+      "How the materials for the Great Pyramid were meant to symbolize order",
+      "How the construction of the Great Pyramid re\ufb02ected Egypt\u2019s beliefs",
+      "How modern engineers restored the Great Pyramid to its original state"
+    ]
+  },
+  {
+    "number": 110,
+    "text": "According to the talk, how were the pyramid\u2019s limestone blocks transported",
+    "choices": [
+      "They were rolled downhill from distant mountains.",
+      "They were dragged across desert sands using wooden sleds.",
+      "They were lifted onto carriages that were pulled by animals.",
+      "They were carried by boat along the Nile from nearby quarries."
+    ]
+  },
+  {
+    "number": 111,
+    "text": "What can be inferred about the signi\ufb01cance of the Great Pyramid to the Egyptians",
+    "choices": [
+      "It served mainly as a defensive structure against invaders.",
+      "It symbolized both political authority and spiritual connection.",
+      "It demonstrated the growing in\ufb02uence of trade with foreign nations.",
+      "It represented the rise of centralized royal power across North Africa."
+    ]
+  },
+  {
+    "number": 112,
+    "text": "Why does the speaker mention modern engineers",
+    "choices": [
+      "To suggest that ancient tools were less accurate than believed",
+      "To explain how technology has simpli\ufb01ed large-scale construction",
+      "To compare ancient building methods with industrial techniques",
+      "To show that the pyramid\u2019s precision still puzzles experts today"
+    ]
+  },
+  {
+    "number": 113,
+    "text": "What example does the speaker use to illustrate the concept of the looking-glass self",
+    "choices": [
+      "A musician receiving applause after a concert",
+      "A manager evaluating an employee during a performance review",
+      "A parent teaching a child to behave politely at dinner",
+      "A student imagining classmates\u2019 reactions during a class presentation"
+    ]
+  },
+  {
+    "number": 114,
+    "text": "All of the following are mentioned as outcomes of imagined social re\ufb02ection EXCEPT:",
+    "choices": [
+      "An emotional experience of embarrassment",
+      "Heightened anxiety",
+      "The rejection of all outside opinions",
+      "Improved con\ufb01dence"
+    ]
+  },
+  {
+    "number": 115,
+    "text": "What can be inferred about the role of feedback in shaping identity",
+    "choices": [
+      "It reinforces or challenges how individuals see themselves.",
+      "It weakens personal con\ufb01dence by creating constant comparison.",
+      "It has little e\ufb00ect on people who are already self-aware.",
+      "It primarily in\ufb02uences professional rather than personal growth."
+    ]
+  },
+  {
+    "number": 116,
+    "text": "Why does the speaker mention social media",
+    "choices": [
+      "To contrast virtual communication with traditional forms of identity-building",
+      "To argue that online feedback is less important than face-to-face interaction",
+      "To show how modern technology increases opportunities for social re\ufb02ection",
+      "To explain why digital communication discourages self-evaluation"
+    ]
+  },
+  {
+    "number": 117,
+    "text": "According to the talk, what was one bene\ufb01t of using concrete in Roman architecture",
+    "choices": [
+      "It limited the need for decorative elements.",
+      "It reduced the overall cost of building materials.",
+      "It allowed the creation of larger and more durable structures.",
+      "It replaced the use of stone in all construction projects."
+    ]
+  },
+  {
+    "number": 118,
+    "text": "What does the speaker imply about Roman building techniques",
+    "choices": [
+      "They were mainly copied from Greek designs.",
+      "They combined functionality with artistic vision.",
+      "They prioritized decoration over structural strength.",
+      "They declined rapidly after the fall of the empire."
+    ]
+  },
+  {
+    "number": 119,
+    "text": "Why does the speaker mention the Colosseum and the Pantheon",
+    "choices": [
+      "To compare ancient theaters to modern sports arenas",
+      "To provide examples that demonstrate Roman engineering skill",
+      "To explain how Roman art di\ufb00ered from Greek art",
+      "To describe why many Roman buildings were eventually destroyed"
+    ]
+  },
+  {
+    "number": 120,
+    "text": "What will the speaker most likely discuss next",
+    "choices": [
+      "The religious symbolism of ancient Roman temples",
+      "The political history of the Roman Empire\u2019s expansion",
+      "The in\ufb02uence of Roman architectural methods",
+      "The decline of Roman art and sculpture in the Middle Ages"
+    ]
+  },
+  {
+    "number": 121,
+    "text": "What is the main topic of the talk",
+    "choices": [
+      "The history of ecological theory and its impact on communities",
+      "The decline of traditional \ufb01shing communities in coastal villages",
+      "Modern debates about environmental regulation in \ufb01shing and pollution",
+      "The overuse of shared resources and possible solutions"
+    ]
+  },
+  {
+    "number": 122,
+    "text": "What can be inferred about e\ufb00ective resource management",
+    "choices": [
+      "It often depends on cooperation and shared responsibility among users.",
+      "It requires the elimination of individual incentives to grow.",
+      "It can succeed through strict government control.",
+      "It is rarely in\ufb02uenced by local community traditions."
+    ]
+  },
+  {
+    "number": 123,
+    "text": "Why does the speaker include the story about herders and a shared pasture",
+    "choices": [
+      "To illustrate how individual actions can ruin a shared resource",
+      "To describe ancient farming practices in rural societies",
+      "To argue that cooperation among farmers is impossible without intervention",
+      "To show how trade disputes once caused environmental decline"
+    ]
+  },
+  {
+    "number": 124,
+    "text": "According to the talk, how have some communities responded to the tragedy of the commons",
+    "choices": [
+      "By abandoning traditional livelihoods that depend on shared environments",
+      "By creating shared management systems that limit the use of common resources",
+      "By increasing government oversight to dissuade individuals from breaking the rules",
+      "By switching entirely from local resources to imported alternatives"
+    ]
+  }
+]
